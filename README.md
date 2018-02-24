@@ -3,7 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 [//]: # (Image References)
 
-[image1]: ./Screenshot.png "Results"
+[image1]: ./Screenshot.png "Screenshot"
 [image2]: ./NIS_lidar.png "NIS_lidar"
 [image3]: ./NIS_radar.png "NIS_radar"
 
