@@ -70,7 +70,7 @@ from the simulator.
 
 Screenshot of the simulator window showing the RMSE values achieved.
 
-![alt text][image1]
+![image1]
 
 Plots of NIS values for both Lidar and Radar
 
