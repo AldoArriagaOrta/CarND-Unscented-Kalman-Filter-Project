@@ -4,8 +4,8 @@ Self-Driving Car Engineer Nanodegree Program
 [//]: # (Image References)
 
 [image1]: ./Screenshot.png "Results"
-[image1]: ./NIS_lidar.png "NIS_lidar"
-[image1]: ./NIS_radar.png "NIS_radar"
+[image2]: ./NIS_lidar.png "NIS_lidar"
+[image3]: ./NIS_radar.png "NIS_radar"
 
 In this project utilize an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance outlined in the project rubric: px, py, vx, vy output coordinates must have an RMSE <= [.09, .10, .40, .30] 
 
